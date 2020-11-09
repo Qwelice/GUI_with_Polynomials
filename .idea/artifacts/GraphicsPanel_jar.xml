@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GraphicsPanel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphicsPanel_jar</output-path>
+    <root id="archive" name="GraphicsPanel.jar">
+      <element id="module-output" name="GraphicsPanel" />
+    </root>
+  </artifact>
+</component>

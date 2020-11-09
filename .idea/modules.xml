@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Convertation/Convertation.iml" filepath="$PROJECT_DIR$/Convertation/Convertation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI_with_Polynomials.iml" filepath="$PROJECT_DIR$/GUI_with_Polynomials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsPanel/GraphicsPanel.iml" filepath="$PROJECT_DIR$/GraphicsPanel/GraphicsPanel.iml" />
+    </modules>
+  </component>
+</project>
